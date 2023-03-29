@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FFAAAAAE-C7BB-4CEA-9A89-F407E8A28312}</ProjectGuid>
+    <ProjectGuid>{A9DD03C3-4EE8-49C9-B804-5EDCFF95E355}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BasicClass</RootNamespace>
-    <AssemblyName>BasicClass</AssemblyName>
+    <RootNamespace>p229_ex1</RootNamespace>
+    <AssemblyName>p229_ex1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
