@@ -8,7 +8,6 @@ namespace p247_ex1
 {
     class WaterHeater
     {
-
         protected int temperature;
 
         public void SetTemperature(int temperature)
